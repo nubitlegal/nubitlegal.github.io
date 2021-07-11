@@ -6,7 +6,7 @@ layout: home
 #permalink:>
 #date:   2021-07-11 16:53:32 +0200
 ---
-ABOUT.
+HOME.
 ---
 Esta pagina es una herramienta para los ingenieros, practicantes de nubitlegal.
 Aqui podran encontrar diferentes tipos de manuales, guias y links para mantener
