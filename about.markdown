@@ -3,11 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-ABOUT
+About
 ---
-Esta pagina es una herramienta para los ingenieros, practicantes de nubitlegal.
-Aqui podran encontrar diferentes tipos de manuales, guias y links para mantener
-una documentacion ordenada con respecto a: banco de datos, servidor web, entre otros.
+Nubit Legal es un estudio legal tech peruano que brinda soluciones 
+en línea con un enfoque humano y holístico. <br />
+
+Cuenta con un staff de abogados calificados, reconocidos especialistas
+en distintas materias del derecho capaces de ofrecer asesoramiento
+legal personalizado e integral a través de la virtualidad.
 <!---PONER URL: [jekyllrb.com](https://jekyllrb.com/) ---> 
 
 [jekyll-organization]: https://github.com/jekyll

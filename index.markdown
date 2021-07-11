@@ -6,8 +6,9 @@ layout: home
 #permalink:>
 #date:   2021-07-11 16:53:32 +0200
 ---
-HOME.
+Home
 ---
-Esta pagina es una herramienta para los ingenieros, practicantes de nubitlegal.
-Aqui podran encontrar diferentes tipos de manuales, guias y links para mantener
-una documentacion ordenada con respecto a: banco de datos, servidor web, entre otros.
+Esta página es una herramienta para los ingenieros y practicantes de nubitlegal. <br />
+
+Aquí podran encontrar diferentes tipos de manuales, guías y links para mantener
+una documentación ordenada con respecto a: banco de datos, servidor web, entre otros.
