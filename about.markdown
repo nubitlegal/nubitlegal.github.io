@@ -3,16 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-CHANGE
-This is the base Jekyll theme kike. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+Esta pagina es una herramienta para los ingenieros, practicantes de nubitlegal.
+Aqui podran encontrar diferentes tipos de manuales, guias y links para mantener
+una documentacion ordenada con respecto a: banco de datos, servidor web, entre otros.
+<!---PONER URL: [jekyllrb.com](https://jekyllrb.com/) ---> 
 
 [jekyll-organization]: https://github.com/jekyll
